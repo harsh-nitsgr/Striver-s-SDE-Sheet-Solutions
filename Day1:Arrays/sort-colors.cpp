@@ -1,3 +1,5 @@
+//sorting array of 0s 1s and 2s
+
 // class Solution {
 // public:
 //     void sortColors(vector<int>& nums) {
