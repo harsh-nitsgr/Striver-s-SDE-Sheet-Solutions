@@ -1,3 +1,5 @@
+//using divide and conquer
+
 class Solution{
     public:
         int divide(vector<int>& nums,int start,int end){
